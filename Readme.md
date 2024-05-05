@@ -72,7 +72,7 @@ pip install -r requirements.txt
 - Clone the repository
 
 ```
-git clone https://github.com/Sanika-k-1317/Travel-Guide.git
+git clone https://github.com/Sohajawdekar/travel_planner.git
 ```
 
 ## For running the website
