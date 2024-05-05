@@ -34,7 +34,7 @@ Travel Guide consists of chatbot which intakes the preferences of travellers and
 
 ```
 📦 Travel_planner
- ┣ 📂asset
+
  ┣ 📂Model
  ┃ ┣📜app.py
  ┣ 📂Website
@@ -44,6 +44,7 @@ Travel Guide consists of chatbot which intakes the preferences of travellers and
  ┃ ┣📜.gitignore
  ┃ ┣📜package
  ┃ ┣📜package-lock
+ ┣ 📂asset
  ┣ 📜Readme
  ┗ 📜requirements.txt
 ```
@@ -106,7 +107,7 @@ Generate: A ChatModel / LLM produces an answer using a prompt that includes the 
 
 # <a id="Results-and-Demo"></a>Results and Demo
 
-![The Website]("C:\My Projects\amex\travel_planner\asset\Screenshot 2024-05-05 212711.png")
+![The Website](https://github.com/Sohajawdekar/travel_planner/blob/main/asset/Screenshot%202024-05-05%20212711.png)
 
 # <a id="Future-Work"></a>Future Work
 
