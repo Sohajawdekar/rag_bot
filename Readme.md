@@ -22,10 +22,10 @@ Travel Guide consists of chatbot which intakes the preferences of travellers and
 ## <a id="Tech-Stack"></a> Tech Stack
 
 - React
-- [Python]
-- [Langchain]
-- [Hugging Face]
-- [StreamLit]
+- Python
+- Langchain
+- Hugging Face
+- StreamLit
 - HTML, CSS
 - FAISS
 - Py PDF 2
@@ -34,7 +34,6 @@ Travel Guide consists of chatbot which intakes the preferences of travellers and
 
 ```
 📦 Travel_planner
-
  ┣ 📂Model
  ┃ ┣📜app.py
  ┣ 📂Website
@@ -119,4 +118,4 @@ Generate: A ChatModel / LLM produces an answer using a prompt that includes the 
 # <a id="Contributors"></a>Contributors
 
 - Soha Jawdekar
-- Sanika Kuumbhare
+- Sanika Kumbhare
