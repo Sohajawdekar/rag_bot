@@ -43,8 +43,8 @@ Travel Guide consists of chatbot which intakes the preferences of travellers and
  ┃ ┣📜.gitignore
  ┃ ┣📜package
  ┃ ┣📜package-lock
- ┣ 📜requirements.txt
- ┗ 📜travel_planner_readme
+ ┣ 📜Readme
+ ┗ 📜requirements.txt
 ```
 
 # <a id="Getting-Started"></a>Getting Started
