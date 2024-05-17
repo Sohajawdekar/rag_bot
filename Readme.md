@@ -107,6 +107,8 @@ Generate: A ChatModel / LLM produces an answer using a prompt that includes the 
 # <a id="Results-and-Demo"></a>Results and Demo
 
 ![The Website](https://github.com/Sohajawdekar/travel_planner/blob/main/asset/Screenshot%202024-05-05%20212711.png)
+![chatbot pic-1](https://github.com/Sohajawdekar/travel_planner/blob/main/asset/chatbot-1.jpg)
+![chatbot pic-2](https://github.com/Sohajawdekar/travel_planner/blob/main/asset/chatbot-2.jpg)
 
 # <a id="Future-Work"></a>Future Work
 
